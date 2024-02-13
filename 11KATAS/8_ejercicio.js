@@ -18,7 +18,7 @@ const ciudades = [
   'Chicago',
   'New Orleans',
   'New York',
-  'Canada',
+  'Los Angeles',
   'Nuevo Mexico'
 ]
 function findLongestWord(matrix) {
